@@ -1,10 +1,3 @@
-
-### To do
-
-  - Fine-tune models for each microhabitat.
-  - …
-  - …
-
 # Background
 
 This repository contains all the code and data to simulate different
