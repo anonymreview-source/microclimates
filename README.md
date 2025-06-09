@@ -56,14 +56,10 @@ The weather data comes from Modivas
         placed.
       - **aspect.tif**: aspect for the area where dataloggers where
         placed.
-      - **orto.tif**: ortophoto cropped for the area where dataloggers
-        where placed.
+      
   - **/weather/** weather data from Modiva station, downloaded from
     wunderground.
   - **microclimates\_CastroSampaio.Rmd**: Run simulations for different
     microhabitats and compare to the data recorded by iButtons placed in
     those microclimates.
 
-## Study area
-
-![](README_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
